@@ -1,1 +1,41 @@
-{"dynListPages":{"/careers":true,"/blog":true,"/digital-workers":true,"/old-home-2":true},"detailPages":{"blog":"/detail_blog","blog-categories":"/detail_blog-categories","careers":"/detail_careers","workers":"/detail_workers"},"redirectDomain":"www.11x.ai","onlySSL":true,"redirects":{"/worker/product":"/worker/alice","/blog/11x-techcrunch":"https://techcrunch.com/2023/08/11/11xai-closes-2-million-pre-seed-to-create-autonomous-ai-workers/","/posts/tc":"https://techcrunch.com/2023/08/11/11xai-closes-2-million-pre-seed-to-create-autonomous-ai-workers/","/privacy-policy":"/privacy","/alice":"/worker/alice","/serena":"/digital-workers","/worker/serena":"/digital-workers","/blog/profitable-ai-powered-companies-with-no-employees-to-arrive-next-year":"https://sifted.eu/articles/autonomous-companies-ai","/blog/11xai-closes-a-2m-pre-seed-round-to-create-autonomous-ai-workers":"https://techcrunch.com/2023/08/11/11xai-closes-2-million-pre-seed-to-create-autonomous-ai-workers/","/contact":"/waitlist","/hire-alice":"/demo","/blog/sifted":"https://sifted.eu/articles/autonomous-companies-ai","/blog/techcrunch":"https://techcrunch.com/2023/08/11/11xai-closes-2-million-pre-seed-to-create-autonomous-ai-workers/","/legal/terms-conditions":"/legal/terms","/workers":"/digital-workers","/privacy":"/legal/privacy-policy","/terms":"/legal/terms","/career":"/careers"},"headers":{"strict-transport-security":"max-age=31536000"},"publicationVersion":"66fd483e06bcdcfc196955c5","publishVersion":126,"upstreamRenderer":"react","lazyRenderStaticPages":true,"localization":{"locales":{"":{"tag":"en","primary":true,"_id":"662a43b6bf43f46763223fdb","cmsId":"662a43b6bf43f46763223fb0","staticPageSlugs":{},"detailPages":{},"dynListPages":{}}},"primaryRedirect":null,"browserDetection":false,"enableHreflangLinks":true,"hrefPrefixForHreflangLinks":""}}
+{
+    "dynListPages": {
+        "/careers": true,
+        "/blog": true,
+        "/digital-workers": true,
+        "/old-home-2": true
+    },
+    "detailPages": {
+        "blog": "/detail_blog",
+        "blog-categories": "/detail_blog-categories",
+        "careers": "/detail_careers",
+        "workers": "/detail_workers"
+    },
+    "redirectDomain": "www.11x.ai",
+    "onlySSL": true,
+    "redirects": {},
+    "headers": {
+        "strict-transport-security": "max-age=31536000"
+    },
+    "publicationVersion": "66fd483e06bcdcfc196955c5",
+    "publishVersion": 126,
+    "upstreamRenderer": "react",
+    "lazyRenderStaticPages": true,
+    "localization": {
+        "locales": {
+            "": {
+                "tag": "en",
+                "primary": true,
+                "_id": "662a43b6bf43f46763223fdb",
+                "cmsId": "662a43b6bf43f46763223fb0",
+                "staticPageSlugs": {},
+                "detailPages": {},
+                "dynListPages": {}
+            }
+        },
+        "primaryRedirect": null,
+        "browserDetection": false,
+        "enableHreflangLinks": true,
+        "hrefPrefixForHreflangLinks": ""
+    }
+}
